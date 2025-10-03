@@ -2,7 +2,7 @@
 
 # Script Launcher App
 
-This project provides a graphical user interface (GUI) for launching various Python scripts used for the various tasks of a Servipoli internship worker in the UPV (used the Computer Science Faculty as reference). The application is built using Tkinter and allows users to easily execute scripts from a simple interface.
+This project provides a graphical user interface (GUI) for launching various Python scripts used for the various tasks of a Servipoli internship management worker in the UPV (used the Computer Science Faculty as reference). The application is built using Tkinter and allows users to easily execute scripts from a simple interface.
 
 ## Project Structure
 
