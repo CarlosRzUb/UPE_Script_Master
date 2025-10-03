@@ -1,0 +1,8 @@
+tkinterdnd2
+Pillow
+PyMuPDF
+PyPDF2
+python-docx
+watchdog
+extract_msg
+pywin32
