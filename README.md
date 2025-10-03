@@ -37,8 +37,7 @@ script-launcher-app
 2. Clone the repository:
 
    ```
-   git clone <repository-url>
-   cd script-launcher-app
+   git clone <(https://github.com/CarlosRzUb/UPE_Script_Master)>
    ```
 3. Install the required dependencies:
 
