@@ -47,11 +47,7 @@ script-launcher-app
 
 ## Usage
 
-To run the application, execute the following command:
-
-```
-python launcher/main_gui.py
-```
+To run the application, execute the .exe file
 
 This will open the GUI where you can select and execute the various scripts available in the `scripts` directory.
 
